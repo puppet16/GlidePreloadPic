@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ListPreloaderdemo</string>
+    <string-array name="url_list">
+        <item>https://s2.ax1x.com/2019/04/24/EV17Xn.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV1T6s.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV1bmq.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3ncd.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3ujA.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV33Af.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3m1H.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3e9e.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3MnI.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3G4S.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3lHP.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV38N8.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3dun.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3Ujs.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3t3Q.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3Y9g.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3Ncj.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV30H0.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3wBq.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3DEV.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3c34.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3s4U.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3rNT.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV36CF.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3ggJ.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV32v9.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3WuR.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3fD1.jpg</item>
+        <item>https://s2.ax1x.com/2019/04/24/EV3hHx.jpg</item>
+    </string-array>
+
+    <string-array name="url_http">
+        <item>http://video-ali-beijing.qxiu.com/image/cover/C5C1C2DD6840485F9D08A7ED1D039FAC-6-2.png</item>
+        <item>http://video-ali-beijing.qxiu.com/image/cover/0B9E58D3645B431C9BB1E5037A392B50-6-2.png</item>
+        <item>http://video-ali-beijing.qxiu.com/image/cover/510AB212326E4C9BBFE7D151A7183AF8-6-2.png</item>
+        <item>http://video-ali-beijing.qxiu.com/image/cover/A4B794A59551406D9C51E72168A7CE37-6-2.png</item>
+        <item>http://video-ali-beijing.qxiu.com/image/cover/000768F6FBDB4FD09744980584C33340-6-2.png</item>
+        <item>http://video-ali-beijing.qxiu.com/image/cover/93467F64DE834844B6D8539363C66D67-6-2.png</item>
+    </string-array>
+    <string name="cache_size">当前缓存大小:%s</string>
+</resources>
